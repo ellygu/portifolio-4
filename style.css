@@ -44,7 +44,7 @@ p{
    
 }
 .img{
-    width: 300px;
+    width: 400px;
     display: inline-block;
     margin-right: 20px; /* Espaço entre as imagens */
     padding:20px;
@@ -54,6 +54,8 @@ p{
     
     
 }
+
+
 a{
     color: white;
     text-decoration: none;
@@ -72,6 +74,6 @@ h1:hover{
 }
 footer{
     font-size: 15px;
-    text-align: center;
+    text-align:center;
     color: antiquewhite;
 }
